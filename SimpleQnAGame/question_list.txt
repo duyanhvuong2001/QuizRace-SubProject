@@ -1,0 +1,10 @@
+Ban co bi ngu khong,10
+Co,True
+Khong,False
+Ngu,False
+Deo Ngu,False
+11x12=?,10
+132,True
+121,False
+120,False
+111,False

@@ -1,0 +1,35 @@
+How many elements are there in a triangle?;12
+3;False
+6;True
+4;False
+None of these;False
+If two sides of a triangle are not equal, the triangle is called;12
+scalene;True
+isosceles;False
+equilateral;False
+right-angled;False
+Perimeter of a square =;15
+side × side;False
+3 x side;False
+4 x side;True
+2 x side;False
+How many lines of symmetry are there in a rectangle?;12
+1;False
+2;True
+3;False
+4;False
+How many terms are there in the expression 2y + 5?;10
+1;False
+2;True
+3;False
+4;False
+On a number line, when we add a positive integer, we;10
+move to the right; True
+move to the left; False
+do not move at all; False
+none of these; False
+134 x 87 = ?;9
+12.668; False
+11.658; True
+11.648; False
+12.758; False

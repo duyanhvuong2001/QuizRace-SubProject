@@ -1,0 +1,25 @@
+What was the name of the supercontinent that Australia was once part of?;12
+Terra Incognita;False
+Gondwanaland;True
+Rodinia;False
+Gunditjmara;False
+What term describes the central belief system of the Australian Aboriginal people?;13
+Songlines;False
+Christianity;False
+Dreaming;True
+Aboriginal culture;False
+Which explorer charted the coast of Australia from Cape York to the Ashburton?;13
+Dirk Hartog;False
+Abel Tasman;True
+Luis Vaez de Torres;False
+William Dampier;False
+In which year was gold discovered in the area near Ballarat in Victoria?;13
+1788;False
+1825;False
+1851;True
+1901;False
+The Commonwealth of Australia was formed in which year through the Federation of six states?;15
+1788;False
+1887;False
+1901;True
+1960;False

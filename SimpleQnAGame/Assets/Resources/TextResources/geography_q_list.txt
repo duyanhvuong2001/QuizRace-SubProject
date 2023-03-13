@@ -1,0 +1,35 @@
+Which is Australia's second largest state by area?;15
+New South Wales;False
+Queensland;True
+South Australia;False
+Western Australia;False
+Which is the largest desert in Australia?;15
+Gibson Desert;False
+Great Sandy Desert;False
+Great Victoria Desert;True
+Simpson Desert;False
+Which body of water is home to the Great Barrier Reef?;16
+Arafura Sea;False
+Coral Sea;True
+Solomon Sea;False
+Timor Sea;False
+The Ashmore and Cartier Islands are situated in which ocean?;15
+Atlantic Ocean;False
+Indian Ocean;True
+Pacific Ocean;False
+Southern Ocean;False
+Which is the most populous of the Torres Strait Islands?;15
+Badu Island;False
+Horn Island;False
+Murray Island;False
+Thursday Island;True
+Which is Australia's largest lake?;14
+Lake Eyre;True
+Lake Frome;False
+Lake Mackay;False
+Lake Torrens;False
+Hobart is built on the banks of which river?;17
+Derwent;True
+Huon;False
+Mersey;False
+Tamar;False

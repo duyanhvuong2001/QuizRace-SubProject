@@ -1,0 +1,30 @@
+Which one is a palindrome?;10
+Tacocat;True
+Dummed;False
+Stochastic;False
+Crosses;False
+11x12 =?; 10
+132; True
+121; False
+120; False
+111; False
+H2 + 02 = ?; 10
+HOHO; False
+2H20; True
+H20; False
+Huhu; False
+On a number line, when we add a positive integer, we; 10
+move to the right; True
+move to the left; False
+do not move at all; False
+none of these; False
+Which of the following statements is wrong?; 10
+When a positive integer and a negative integer are added, we always get a negative integer; True
+Additive inverse of 8 is (-8); False
+Additive inverse of (-8) is 8; False
+For subtraction, we add the additive inverse of the integer that is being subtracted, to the other integer.; False
+134 x 87 = ?; 9
+12.668; False
+11.658; True
+11.648; False
+12.758; False
